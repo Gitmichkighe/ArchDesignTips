@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bookmark All visible as icon if room -->
+    <item
+        android:id="@+id/action_bookmark"
+        android:title="Bookmark All"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:showAsAction="never"/>
+
+    <!-- Rate Us in overflow -->
+    <item
+        android:id="@+id/action_rate_us"
+        android:title="Rate Us"
+        android:showAsAction="never"/>
+
+    <!-- Toggle Dark Mode in overflow -->
+    <item
+        android:id="@+id/action_toggle_dark"
+        android:title="Toggle Dark Mode"
+        android:showAsAction="never"/>
+</menu>

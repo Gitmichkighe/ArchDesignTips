@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Old colors (preserve for legacy references) -->
+    <color name="blue_500">#FF0D47A1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="divider_gray">#393939</color> <!-- light gray -->
+    <color name="yellow">#FFB8860B</color> <!-- dark golden yellow -->
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="light_gray_200">#D1D1D1</color>
+
+
+
+    <!-- Text colors for contrast -->
+    <color name="text_on_blue">#FFFFFFFF</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="red_700">#D32F2F</color>
+
+    <!-- Backgrounds -->
+    <color name="background_surface">#FFFFFFFF</color>
+    <color name="background_light">#FFF5F5F5</color>
+    <color name="background_dark">#FF121212</color>
+
+    <!-- Icon / Placeholder colors -->
+    <color name="icon_placeholder">#FF1F77B4</color>
+    <color name="icon_placeholder_text">#FFFFFFFF</color>
+
+    <!-- Favorite star -->
+    <color name="star_on">#FFFFD700</color>
+    <color name="star_off">#FFBDBDBD</color>
+
+
+
+
+    <color name="blue_text">#FFFFFFFF</color>  <!-- white text for contrast -->
+</resources>
