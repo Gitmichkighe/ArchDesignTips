@@ -15238,7 +15238,7 @@
     },
 {
   "category": "Notable Architects",
-  "Rules": [
+  "rules": [
     "Zaha Hadid, the master of curves, designed the Heydar Aliyev Center.\nStyle: Parametricism / Neo-futurism\nKey Concepts: Fluid geometries, dynamic curvature, anti-orthogonal space\nSignature Materials: Glass-fiber reinforced concrete, curved steel\nYears Active: 1977–2016\nRegion: Iraq / UK\nInfluence: Revolutionized digital design and parametric forms.",
     "Frank Lloyd Wright created Fallingwater, a landmark of organic architecture.\nStyle: Organic Architecture\nKey Concepts: Integration with landscape, horizontality, open plan\nSignature Materials: Stone, reinforced concrete, timber\nYears Active: 1893–1959\nRegion: United States\nInfluence: Pioneer of site-responsive residential architecture.",
     "Le Corbusier designed the Villa Savoye, an emblem of modernism.\nStyle: International Style / Modernism\nKey Concepts: Pilotis, ribbon windows, open plan, free façade\nSignature Materials: White reinforced concrete\nYears Active: 1914–1965\nRegion: Switzerland / France\nInfluence: Defined the theoretical foundations of modern architecture.",
@@ -15264,7 +15264,6 @@
     "César Pelli created the Petronas Towers.\nStyle: Postmodern / High-Tech Hybrid\nKey Concepts: Structural expression, cultural symbolism\nSignature Materials: Steel, glass, aluminum\nYears Active: 1960–2019\nRegion: Argentina / USA\nInfluence: Leader in supertall tower innovation.",
     "Toyo Ito designed the Sendai Mediatheque.\nStyle: Contemporary / Structural Innovation\nKey Concepts: Non-hierarchical spaces, organic columns\nSignature Materials: Steel lattice tubes, glass\nYears Active: 1971–present\nRegion: Japan\nInfluence: Merges digital sensibilities with structural experimentation.",
     "Arata Isozaki designed MOCA Los Angeles.\nStyle: Postmodern / Metabolist Influence\nKey Concepts: Geometric rigor, cultural symbolism\nSignature Materials: Red sandstone, concrete\nYears Active: 1950–2022\nRegion: Japan\nInfluence: Bridged Japanese and Western architectural dialogues.",
-
 "Eero Saarinen created the TWA Flight Center.\nStyle: Expressionist Modernism\nKey Concepts: Sweeping forms, dynamic circulation, futuristic aesthetics\nSignature Materials: Concrete, steel, glass\nYears Active: 1939–1961\nRegion: USA\nInfluence: Master of sculptural transportation architecture.",
     "Gordon Bunshaft designed the Beinecke Rare Book Library.\nStyle: Modernism\nKey Concepts: Translucent façades, modular clarity, light filtering\nSignature Materials: Marble panels, steel, glass\nYears Active: 1935–1990\nRegion: USA\nInfluence: Exemplifies restrained modernist library design.",
     "Daniel Libeskind designed the Jewish Museum Berlin.\nStyle: Deconstructivism\nKey Concepts: Fragmentation, voids, symbolic form\nSignature Materials: Zinc cladding, concrete, glass\nYears Active: 1970–present\nRegion: Poland / USA\nInfluence: Key figure in memory-driven architectural narratives.",
