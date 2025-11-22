@@ -1,3 +1,4 @@
+# Ignore default Android/IDE files
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Track your content JSON file
+!app/src/main/assets/ArchiTips_v1.json
